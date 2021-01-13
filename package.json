@@ -1,0 +1,22 @@
+{
+  "name": "appcall",
+  "version": "1.0.0",
+  "description": "Brief : App Desktop : appel en cours",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Idoufkir/Brief-App-Desktop-appel-en-cours-.git"
+  },
+  "author": "M.IDoufkir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Idoufkir/Brief-App-Desktop-appel-en-cours-/issues"
+  },
+  "homepage": "https://github.com/Idoufkir/Brief-App-Desktop-appel-en-cours-#readme",
+  "devDependencies": {
+    "electron": "^11.2.0"
+  }
+}
